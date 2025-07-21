@@ -2,6 +2,7 @@
 
 > Projeto desenvolvido como parte do currículo da 42 School  
 > Um mini-jogo 2D em C utilizando a biblioteca gráfica MiniLibX
+> Lembrar de baixar a pasta mlx
 
 ---
 
@@ -15,14 +16,22 @@ Cada passo conta, e os inimigos não vão facilitar sua jornada!
 
 ## 🧩 Funcionalidades
 
-✅ Mapa carregado a partir de arquivo `.ber`  
-✅ Validação completa do mapa (bordas, elementos, caminhos válidos)  
-✅ Movimento do jogador com animações (WASD)  
-✅ Inimigos que se movem e atacam automaticamente 
+✅ Mapa carregado a partir de arquivo `.ber`
+
+✅ Validação completa do mapa (bordas, elementos, caminhos válidos)
+ 
+✅ Movimento do jogador com animações (WASD)
+
+✅ Inimigos que se movem e atacam automaticamente
+
 ✅ Sistema de armadilhas que matam jogador ao encostar 
+
 ✅ Sistema de combate: o jogador pode matar inimigos  
+
 ✅ Porta que abre após coletar todos os baús  
+
 ✅ Contador de movimentos exibido na tela  
+
 ✅ Detecção de vitória ou derrota (game over)
 
 ---
